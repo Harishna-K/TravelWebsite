@@ -2,7 +2,7 @@
 
 A fully responsive and modern Tour & Travel Agency website built using **HTML**, **CSS**, and **JavaScript**. This project showcases a clean layout, interactive elements, and mobile-first design—ideal for travel agencies, tour planners, or portfolio display.
 
-![Travel Website Screenshot](images/demo-screenshot.png) <!-- Replace with your actual image path -->
+![Travel Website Screenshot](images/demo-screenshot.png)
 
 ---
 
@@ -44,26 +44,34 @@ You can check out the deployed project here:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/responsive-travel-website.git
-   cd responsive-travel-website
+   git clone https://github.com/Harishna-K/TravelWebsite.git
+   cd TravelWebsite
    
 2. Open index.html in your browser
-Or use Live Server in VS Code.
 
-📦 Technologies Used
-HTML5
+   Or use Live Server in VS Code.
 
-CSS3 (Flexbox & Media Queries)
 
-JavaScript (Vanilla)
 
-Swiper.js for Review Slider
 
-📢 Credits
-Icons: Font Awesome
+## 📦 Technologies Used
 
-Fonts: Google Fonts
+- HTML5
 
-Slider Library: Swiper.js
+- CSS3 (Flexbox & Media Queries)
+
+- JavaScript (Vanilla)
+
+- Swiper.js for Review Slider
+
+
+
+
+## 📢 Credits
+- Icons: Font Awesome
+
+- Fonts: Google Fonts
+
+- Slider Library: Swiper.js
 
 
