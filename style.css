@@ -381,7 +381,7 @@ body{
     gap: 1.5rem;
 }
 .services .box-container .box{
-    flex: 1 1 30rem;
+    flex: 1 1 40rem;
     border-radius: .5rem;
     padding: 1rem;
     text-align: center;
@@ -414,7 +414,7 @@ body{
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, .1);
     border: 1rem solid #fff;
     border-radius: .5rem;
-    flex: 1 1 30rem;
+    flex: 1 1 40rem;
     height: 25rem;
     position: relative;
 }
@@ -516,12 +516,12 @@ body{
 .brand-container{
     text-align: center;
 }
-/* .swiper-slide img{
+.swiper-slide img{
     width: 50%;
     height: 40%;
     object-fit: cover;
     border-radius: 40%;
-} */
+}
 .footer{
     background: #333;
 }
